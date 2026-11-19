@@ -1,0 +1,8 @@
+{
+  "name": "Remix Freelance Hub",
+  "description": "Upwork-style Kenyan and international freelance marketplace with milestone-based Flutterwave M-Pesa and card split payments, 10% platform commission ledger, manual freelancer payouts, admin settlement dashboard, and live community discussions and brainstorming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
